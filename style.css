@@ -70,6 +70,7 @@ main {
 }
 
 .two {
+  background-image: url("assets/yelpper.png");
   grid-column: span 1;
   grid-row: span 1;
 }
@@ -125,6 +126,7 @@ main {
       }
       
       .two {
+        background-image: url("assets/yelpper.png");
         grid-column: span 4;
         grid-row: span 1;
       }
