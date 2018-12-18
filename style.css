@@ -76,6 +76,7 @@ main {
 }
 
 .three {
+  background-image: url("assets/employee_directory.png");
   grid-column: span 1;
   grid-row: span 1;
 }
