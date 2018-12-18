@@ -76,7 +76,7 @@ main {
 }
 
 .three {
-  background-image: url("assets/employee_directory.png");
+  background-image: url("assets/stackovercode.png");
   grid-column: span 1;
   grid-row: span 1;
 }
