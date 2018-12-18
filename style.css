@@ -133,6 +133,7 @@ main {
       }
       
       .three {
+	background-image: url("assets/stackovercode.png");
         grid-column: span 2;
         grid-row: span 1;
       }
